@@ -1,2 +1,2 @@
-# Basic RAG
- Basic RAG App using LangChain
+# Basic RAG using Langchain
+
